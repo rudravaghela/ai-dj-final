@@ -3,7 +3,7 @@ rightWristX = 0;
 leftWristY = 0;
 rightWristY = 0;
 scoreleftwrist = 0;
-
+scorerightwrist = 0;
 
 function setup(){
 canvas = createCanvas(600,500);
